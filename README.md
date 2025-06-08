@@ -7,6 +7,8 @@ This project performs **real-time face detection**, **hand tracking**, and **ges
 ## 🚀 Features
 
 - 👤 Face detection with confidence score and bounding box
+   - Neutral/Sad
+   - Smiling
 - ✋ Hand tracking for up to 2 hands
 - 🤙 Gesture recognition:
   - Fist
